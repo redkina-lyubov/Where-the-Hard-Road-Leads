@@ -6,7 +6,7 @@
 
 ______________________
 
-# Online Supplementary Materials
+# Online-Appendix
 
 The repository contains additional graphic and tabular materials for the article **«Where the Hard Road Leads: Criminal Prosecution Experience and the Trajectory of Subsequent Victimization»**.
 
